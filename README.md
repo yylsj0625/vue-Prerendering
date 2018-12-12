@@ -1,4 +1,4 @@
-# vue-Prerendering
+
 # vue 预渲染 vue-meta-info+ prerender-spa-plugin
 
 > yyl
